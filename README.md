@@ -92,6 +92,4 @@ confusión.
 
 Ver el reporte completo en [`docs/reporte_resultados.pdf`](docs/reporte_resultados.pdf).
 
-## Correcciones posteriores a la entrega intermedia
 
-_(Esta sección se actualizará después de recibir retroalimentación del profesor, antes de la entrega final.)_
