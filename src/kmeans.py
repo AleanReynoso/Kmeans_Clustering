@@ -11,7 +11,7 @@ inicialización, no para el algoritmo en sí. Toda la lógica de
 asignación de clusters, actualización de centroides y criterio de
 convergencia está implementada manualmente.
 
-Autor: (agrega tu nombre)
+Autor: Alean Reynoso Rangel
 Este archivo se ejecuta directamente con un intérprete de Python:
     python3 kmeans.py
 No depende de notebooks ni de ningún IDE.
